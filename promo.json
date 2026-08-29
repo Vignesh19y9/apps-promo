@@ -2,8 +2,8 @@
     "promotions": [
       {
         "id": "OneWorth1",
-        "targetAppId": "6802636881",
-        "promotedAppId": "6799369020",
+        "targetAppId": "6799369020",
+        "promotedAppId": "6802636881",
         "title": "",
         "messgae": ""
       }
