@@ -6,6 +6,13 @@
         "promotedAppId": "6748643263",
         "title": "Try our app 🎉",
         "message": "Ready to roll? 🎲"
+      },
+        {
+        "id": "OneTok-OneInsta",
+        "targetAppId": "6761245922",
+        "promotedAppId": "6761416763",
+        "title": "Try our app 🎉",
+        "message": "Save Instagram Posts"
       }
     ]
 }
