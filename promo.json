@@ -20,6 +20,13 @@
         "promotedAppId": "6748643263",
         "title": "Try our app 🎉",
         "message": "Ready to roll? 🎲"
+      },
+        {
+        "id": "OnePaste-OneBloc",
+        "targetAppId": "6788629090",
+        "promotedAppId": "6821496255",
+        "title": "Try our app 🎉",
+        "message": "Ready to Plan? 📆"
       }
     ]
 }
